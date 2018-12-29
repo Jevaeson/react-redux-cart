@@ -1,0 +1,5 @@
+export const GET_PRODUCTS = 'GET_PRODUCTS'
+export const ADD_TO_CART = 'ADD_TO_CART'
+export const MIN_TO_CART = 'MIN_TO_CART'
+export const CHECK_OUT = 'CHECK_OUT'
+export const MIN_PRODUCT_QUANTITY = 'MIN_PRODUCT_QUANTITY'

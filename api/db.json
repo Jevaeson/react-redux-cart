@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "productName": "华为 v20",
+      "price": 2999,
+      "inventory": 1,
+      "imgSrc": "https://img13.360buyimg.com/n7/jfs/t1/29796/39/3012/622887/5c234dabEc8625b62/8fce5cc718d8711e.png"
+    },
+    {
+      "id": "2",
+      "productName": "小米 MIX3",
+      "price": 3499,
+      "inventory": 37,
+      "imgSrc": "https://img12.360buyimg.com/n7/jfs/t1/24137/38/1700/969897/5c14add5E357ad40c/56efb6aff19cd3da.png"
+    },
+    {
+      "id": "3",
+      "productName": "一加 6T",
+      "price": 3599,
+      "inventory": 18,
+      "imgSrc": "https://img10.360buyimg.com/n7/jfs/t1/3753/28/13627/226900/5bd83394E5acd10fc/d8b3a9ad35c98776.jpg"
+    }
+  ]
+}
